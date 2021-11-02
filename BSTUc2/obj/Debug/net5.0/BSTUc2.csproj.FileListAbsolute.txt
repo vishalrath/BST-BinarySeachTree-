@@ -1,0 +1,16 @@
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.exe
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.deps.json
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.runtimeconfig.json
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.runtimeconfig.dev.json
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.dll
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\ref\BSTUc2.dll
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\bin\Debug\net5.0\BSTUc2.pdb
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.csproj.AssemblyReference.cache
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.AssemblyInfoInputs.cache
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.AssemblyInfo.cs
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.csproj.CoreCompileInputs.cache
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.dll
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\ref\BSTUc2.dll
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.pdb
+C:\Users\VISHAL\source\repos\BSTUc2\BSTUc2\obj\Debug\net5.0\BSTUc2.genruntimeconfig.cache
