@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BSTUc3_Search_BST/1.0.0": {
+        "runtime": {
+          "BSTUc3_Search_BST.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BSTUc3_Search_BST/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
