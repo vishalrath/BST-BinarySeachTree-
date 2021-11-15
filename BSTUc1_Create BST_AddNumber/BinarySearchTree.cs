@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace BSTUc1
+namespace BSTUc1_Create_BST_AddNumber
 {
     class BinarySearchTree<T> where T : IComparable<T>
     {

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BSTUc1
+namespace BSTUc1_Create BST_AddNumber
 {
     class Program
     {
